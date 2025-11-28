@@ -206,6 +206,7 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 
+![WhatsApp Image 2025-11-28 at 5 23 48 PM](https://github.com/user-attachments/assets/1ebebb53-4900-4647-bb38-12371ef36e2d)
 
 
 PROCEDURE:
